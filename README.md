@@ -7,7 +7,7 @@ Chào mừng bạn đến với trang web cá nhân của mình! Mình là một
 ---
 
 ## 🎓 Học vấn (Education)
-* **Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM** (2024 - 2028)
+* **Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM** (2025 - 2029) 
   * Chuyên ngành: Khoa học Máy tính
   * Các môn học trọng tâm: Nhập môn lập trình, Cấu trúc dữ liệu và Giải thuật...
 
