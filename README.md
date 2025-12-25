@@ -25,7 +25,7 @@ Chào mừng bạn đến với trang web cá nhân của mình! Mình là một
 - [ ] Xây dựng dự án cá nhân đầu tay và lưu trữ trên GitHub này.
 
 ## 📧 Liên hệ
-* **Email:** [Địa chỉ email của bạn](pmduy.23012007@gmail.com)
+* **Email:** [pmduy.23012007@gmail.com](mailto:pmduy.23012007@gmail.com)
 * **GitHub:** [github.com/minhduy23127](https://github.com/minhduy23127)
 
 ---
